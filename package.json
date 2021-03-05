@@ -1,0 +1,26 @@
+{
+  "name": "new-stylus",
+  "version": "0.0.2",
+  "description": "Use new-stylus to create a new theme for Stylus Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagobraga/new-stylus.git"
+  },
+  "keywords": [
+    "stylus",
+    "extension",
+    "theme",
+    "boilerplate",
+    "automation"
+  ],
+  "author": "Thiago Braga <thibraga06@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagobraga/new-stylus/issues"
+  },
+  "homepage": "https://github.com/thiagobraga/new-stylus#readme"
+}
